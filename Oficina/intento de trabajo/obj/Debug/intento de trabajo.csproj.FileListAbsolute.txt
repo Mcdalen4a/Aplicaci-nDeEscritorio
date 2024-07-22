@@ -1,0 +1,16 @@
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\bin\Debug\intento de trabajo.exe.config
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\bin\Debug\intento de trabajo.exe
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\bin\Debug\intento de trabajo.pdb
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento de trabajo.csproj.AssemblyReference.cache
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Form1.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Properties.Resources.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento de trabajo.csproj.GenerateResource.cache
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento de trabajo.csproj.CoreCompileInputs.cache
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento de trabajo.exe
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento de trabajo.pdb
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Productos.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Cliente.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Configuración.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Notificaciones.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Ordenes.resources
+D:\Magui\Desktop\codigos\c#\intento de trabajo\intento de trabajo\obj\Debug\intento_de_trabajo.Forms.Reportes.resources
